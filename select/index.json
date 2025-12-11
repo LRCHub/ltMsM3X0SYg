@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "東京心中",
+  "base_artist": "梓川",
+  "createdAt": "2025-12-11T16:36:34.872997Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "東京心中",
+      "artist": "梓川",
+      "has_synced": false,
+      "path": "select/pl_01_東京心中_梓川.txt"
+    }
+  ]
+}
